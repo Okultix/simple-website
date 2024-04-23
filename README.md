@@ -1,5 +1,3 @@
-# simple-website # responsive
-
 Greetings,
 
 Welcome to a sleek and adaptable website tailor-made for emerging artists and businesses. 
