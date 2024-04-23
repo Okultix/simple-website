@@ -11,6 +11,9 @@ Crafted entirely in HTML, CSS, and JS, this file offers simplicity and responsiv
 6. Enhance readability with embedded comments in the HTML file: "<!-- Write your comments here -->".
 7. For further inquiries, don't hesitate to reach out via email: okultix@yahoo.com.
 
+IMPORTANT: You have to use/find your own logo, photos, symbols and all other media - if you just want to use this file,
+You will have problems with images and similar media - this is just a template.
+
 Thank you for your attention,
 
 Ox
